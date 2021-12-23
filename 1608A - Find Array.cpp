@@ -55,5 +55,6 @@ int32_t main()
         for(int i=2; i<=N+1; i++)
             cout << i << " ";
         cout << endl;
+    }
     return 0;
 }
