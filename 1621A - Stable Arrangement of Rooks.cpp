@@ -69,7 +69,7 @@ int32_t main()
                 else cout << '.';
             }
             cout << endl;
-        }
+        } 
     }
     return 0;
 }
